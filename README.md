@@ -1,3 +1,3 @@
 # MarvelsOfRussia
 
-![Скриншот](https://github.com/YuriyPimenov/MarvelsOfRussia/raw/master/screenshot.png)
+![Скриншот](https://github.com/YuriyPimenov/MarvelsOfRussia/raw/master/Screenshot.png)
