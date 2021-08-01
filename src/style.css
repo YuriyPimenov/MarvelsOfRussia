@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+
+.region {
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    position: relative;
+}
+.region-title {
+    font-family: sans-serif;
+    font-size: 24px;
+}
